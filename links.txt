@@ -1,0 +1,85 @@
+python durgasoft  _1
+   https://www.youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu&fbclid=IwAR0gC9GE8o14obPpshkSXfzLEA6P28KWOIBwL3S4uqHVzohOplVtJfSoXHs
+
+http://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf           - ALL books google drive
+
+
+https://bhavanakhivsara.files.wordpress.com/2018/06/data-science-and-big-data-analy-nieizv_book.pdf Dell_EMc
+
+Advanced level-1 https://www.youtube.com/watch?v=45ALFidQJ-Q&feature=youtu.be
+
+Python Tutorial 2-https://youtu.be/M-G8pTM-uhQ
+Python tutorial 3- https://youtu.be/oxEuOXWM0YI
+#cognitylab
+
+Python Tutorial 2-https://youtu.be/M-G8pTM-uhQ
+Python tutorial 3- https://youtu.be/oxEuOXWM0YI
+
+1)  why learn python programming language- 12sec to 1.45min
+
+2) Basic of every programming language - 1.46min to 2.38min
+
+3) python ide pycharm installation method- 2.40min to 7.10min
+
+4) Hello word of python and taking user input- Remaining time
+
+
+Data science --https://www.bioinform.io/site/wp-content/uploads/2018/09/RDataScience.pdf
+
+Links for machine learning-https://youtu.be/rh6PLZxsr_E
+
+
+Siraj Raval - youtube _ https://www.youtube.com/watch?v=Cr6VqTRO1v0
+
+
+Neural network- we have whole playlist from begging to advance-https://m.youtube.com/playlist?list=P...
+
+Fb group-https://m.facebook.com/groups/1088418...
+
+R _ language
+
+http://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf   
+
+https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf         
+
+
+
+Statisticas course free standford university      -   https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+
+Fb page-https://m.facebook.com/Cognity-Lab-23...
+
+Whatsapp group-https://chat.whatsapp.com/DTrT8xdcSzY...
+
+
+https://automatetheboringstuff.com/
+
+
+https://github.com/sjyuan-cc/programming-books/blob/master/Language/Python/Python%20Cookbook%2C%203rd%20Edition.pdf
+
+
+Maths for data science 
+
+Linear algebra _ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+salaries_df=pd.read_csv("C:/Users/s172144/Desktop/ml/salaries.csv")  - Load data from system
+
+
+salaries_df.head(10)
+
+
+
